@@ -1,0 +1,317 @@
+[
+    {
+        "question": "Who was the first President of the India?",
+        "subject": "History",
+        "topic": "US Presidents",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "What event marked the beginning of World War I?",
+        "subject": "History",
+        "topic": "World War II",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Name the ancient Egyptian queen known for her alliances and military successes.",
+        "subject": "History",
+        "topic": "Ancient Egypt",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "What was the Renaissance, and in which period did it occur?",
+        "subject": "History",
+        "topic": "Renaissance",
+        "difficulty": "Hard",
+        "marks": 10
+    },
+    {
+        "question": "Identify the leader of the Indian independence movement who employed nonviolent civil disobedience.",
+        "subject": "History",
+        "topic": "Indian Independence",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "What was the significance of the Magna Carta in medieval England?",
+        "subject": "History",
+        "topic": "Magna Carta",
+        "difficulty": "Hard",
+        "marks": 10
+    },
+    {
+        "question": "Name the European explorer who first reached India by sea.",
+        "subject": "History",
+        "topic": "Exploration",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "What was the main cause of the French Revolution?",
+        "subject": "History",
+        "topic": "French Revolution",
+        "difficulty": "Hard",
+        "marks": 10
+    },
+    {
+        "question": "Who was the primary author of the Communist Manifesto?",
+        "subject": "History",
+        "topic": "Communism",
+        "difficulty": "Hard",
+        "marks": 10
+    },
+    {
+        "question": "What was the purpose of the Marshall Plan after World War II?",
+        "subject": "History",
+        "topic": "Marshall Plan",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Identify the longest river in the world.",
+        "subject": "Geography",
+        "topic": "Rivers",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Name the largest desert on Earth.",
+        "subject": "Geography",
+        "topic": "Deserts",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "subject": "Geography",
+        "topic": "Capitals",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Which mountain range separates Europe and Asia?",
+        "subject": "Geography",
+        "topic": "Mountain Ranges",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "In which ocean would you find the Great Barrier Reef?",
+        "subject": "Geography",
+        "topic": "Oceans",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Name the largest lake in Africa.",
+        "subject": "Geography",
+        "topic": "Lakes",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "subject": "Geography",
+        "topic": "Capitals",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Identify the country with the most islands in the world.",
+        "subject": "Geography",
+        "topic": "Countries",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Which two countries are connected by the Suez Canal?",
+        "subject": "Geography",
+        "topic": "Canals",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Name the world's highest waterfall.",
+        "subject": "Geography",
+        "topic": "Waterfalls",
+        "difficulty": "Hard",
+        "marks": 10
+    },
+    {
+        "question": "Solve the equation: 2x + 5 = 15.",
+        "subject": "Mathematics",
+        "topic": "Linear Equations",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "What is the area of a triangle with base 8 units and height 10 units?",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Factorize the expression: x^2 - 9.",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Solve the inequality: 3y + 7 > 16.",
+        "subject": "Mathematics",
+        "topic": "Inequalities",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Calculate the value of π to three decimal places.",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Find the slope of the line passing through the points (4, 7) and (2, 3).",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "Evaluate the expression: 4^3 × 2^2.",
+        "subject": "Mathematics",
+        "topic": "Exponents",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Solve the system of equations: 2x + 3y = 12, 4x - 2y = 6.",
+        "subject": "Mathematics",
+        "topic": "Systems of Equations",
+        "difficulty": "Medium",
+        "marks": 10
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 12 units and width 8 units?",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Calculate the square root of 144.",
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "What is the formula for calculating force?",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Explain the concept of momentum.",
+        "subject": "Physics",
+        "topic": "Mechanics",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "Define Ohm's Law.",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "What is the difference between speed and velocity?",
+        "subject": "Physics",
+        "topic": "Kinematics",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "Explain the concept of electromagnetic induction.",
+        "subject": "Physics",
+        "topic": "Electromagnetism",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "What is the formula for calculating work done?",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Define the term 'refraction' in the context of optics.",
+        "subject": "Physics",
+        "topic": "Optics",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "Explain the principle of conservation of energy.",
+        "subject": "Physics",
+        "topic": "Energy",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "What is the formula for calculating power in an electrical circuit?",
+        "subject": "Physics",
+        "topic": "Electricity",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "Define the term 'wave-particle duality' in quantum mechanics.",
+        "subject": "Physics",
+        "topic": "Quantum Mechanics",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "What is the capital of France?",
+        "subject": "Geography",
+        "topic": "World Capitals",
+        "difficulty": "Easy",
+        "marks": 10
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "subject": "Literature",
+        "topic": "Shakespearean Plays",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "What is the formula for calculating the area of a circle?",
+        "subject": "Mathematics",
+        "topic": "Geometry",
+        "difficulty": "Hard",
+        "marks": 20
+    },
+    {
+        "question": "What is the main function of the mitochondria?",
+        "subject": "Biology",
+        "topic": "Cell Biology",
+        "difficulty": "Medium",
+        "marks": 15
+    },
+    {
+        "question": "In which year did the United States declare independence?",
+        "subject": "History",
+        "topic": "American Revolution",
+        "difficulty": "Easy",
+        "marks": 10
+    }
+]
