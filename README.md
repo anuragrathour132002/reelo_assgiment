@@ -9,20 +9,20 @@ The Question paper Generator should look for questions in the Question Store and
 
 
 # Environment Setup
-Clone the following repository:
+1.Clone the following repository:
 
-    git clone 
+    git clone https://github.com/anuragrathour132002/reelo_assgiment
 
-Navigate to the project directory:
+2.Navigate to the project directory:
 
     cd reelo assignment
 
 
-Run npm install to fetch required packages:
+3.Run npm install to fetch required packages:
 
      npm install
 
 
-Run the application:
+4.Run the application:
 
      node app.js
